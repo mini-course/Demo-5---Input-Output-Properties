@@ -1,0 +1,9 @@
+.label-preview{
+    font-size: 2rem;
+    font-weight: bold;
+    position: absolute;
+    top: 400px;
+    left: calc(50% - 150px);
+    width: 300px;
+    text-align: center;
+}
